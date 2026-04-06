@@ -123,6 +123,19 @@ Spam
 ```
 
 ---
+Input:
+
+```
+"Hello Sir"
+```
+
+Output:
+
+```
+Not Spam
+```
+
+---
 
 ## 🖥️ User Interface
 
