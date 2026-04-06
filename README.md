@@ -60,6 +60,18 @@ Two models were implemented:
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project is sourced from Kaggle:
+
+🔗 https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset
+
+* Contains labeled email data
+* Each email is classified as **Spam** or **Ham (Not Spam)**
+* Used for training and evaluating the machine learning models
+
+---
+
 ### 4. Model Evaluation
 
 * Accuracy Score
